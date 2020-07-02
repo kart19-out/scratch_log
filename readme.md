@@ -23,4 +23,9 @@ Edited from browser 3rd time
 fetch vs pull
 
 
+--------------------------------------------
 
+updating the remote repo name
+
+
+-
